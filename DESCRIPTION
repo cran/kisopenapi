@@ -1,6 +1,6 @@
 Package: kisopenapi
 Title: Korea Investment & Securities (KIS) Open Trading API
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     person(given = "Seokhoon", family = "Joo", role = c("aut", "cre"),
            email = "seokhoonj@gmail.com")
@@ -15,8 +15,8 @@ Imports: cli (>= 3.3.0), data.table (>= 1.14.2), httr2 (>= 0.2.2),
         jsonlite (>= 1.8.0)
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2024-01-23 15:13:37 UTC; seokhoonj
+Packaged: 2024-01-24 14:42:08 UTC; seokhoonj
 Author: Seokhoon Joo [aut, cre]
 Maintainer: Seokhoon Joo <seokhoonj@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-01-24 08:30:02 UTC
+Date/Publication: 2024-01-24 15:30:02 UTC
